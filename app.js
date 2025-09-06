@@ -42,7 +42,6 @@ function levelUp(){
     //random
     let no = Math.floor(Math.random()*3);
     let randCol = btns[no];
-    let randBtn = document.querySelector(`.${randCol}`);
 
     gameSeq.push(randCol);
 
