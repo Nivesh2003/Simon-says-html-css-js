@@ -11,4 +11,21 @@ body{
     border-radius: 20%;
     border: 10px solid black;
     margin: 10px 10px 10px 10px;
+} 
+
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.green{
+    background-color: green;
+} 
+
+.flash{
+    background-color: white;
 }
